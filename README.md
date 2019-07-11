@@ -2,7 +2,7 @@
 
 ## 목차
 
-* [Dart 기본 지식]([https://github.com/notmyfault02/Study-Dart/blob/master/Dart%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D.md](https://github.com/notmyfault02/Study-Dart/blob/master/Dart 기본 지식.md))
+* [Dart 기본 지식](https://github.com/notmyfault02/Study-Dart/blob/master/Dart 기본 지식.md)
 
   * main()
   * 변수

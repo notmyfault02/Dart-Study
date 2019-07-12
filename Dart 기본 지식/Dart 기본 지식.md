@@ -196,8 +196,6 @@ class MyApp extends StatelessWidget {
 
 ## Mixins
 
-
-
 ---
 
 ## 인터페이스 & 추상 클래스

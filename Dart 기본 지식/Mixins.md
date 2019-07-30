@@ -46,7 +46,7 @@
     }
   }
   
-  class Musician extends Performer withDancer, Singer {
+  class Musician extends Performer with Dancer, Singer {
     void showTime() {
       perform();
     }
@@ -75,4 +75,4 @@
 
   
 
-* mixin은 다중 상속을 얻는 방법이 아닌 __상태와 동작을 추상화하고 재사용하기 위한 방법__입니다.
+* mixin은 다중 상속을 얻는 방법이 아닌 **상태와 동작을 추상화하고 재사용하기 위한 방법** 입니다.
